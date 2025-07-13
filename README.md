@@ -10,3 +10,6 @@
 - `garbage_classifier_ui.py`: Main script
 - `garbage_classifier_resnet.pth`: Trained model
 - `class_indices.json`: Class mapping
+
+## To - RUN
+- py ./`garbage_classifier_ui.py`
